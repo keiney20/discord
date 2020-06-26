@@ -7,10 +7,11 @@ Remember that you have a very extensive and simple [documentation](https://keine
 > Requirements 📋
 
 > Installation 🔧
+
+1. Install [Node JS](https://nodejs.org/) in version 12.18.0.
+2. Download the files and upload them to any directory.
 ```
-git status
-git add
-git commit
+node index.js
 ```
 
 > Documentation 📖
