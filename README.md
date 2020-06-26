@@ -12,14 +12,15 @@ Remember that you have a very extensive and simple [documentation](https://keine
 
 1. Install [Node JS](https://nodejs.org/) in version 12.18.0.
 2. Download the files and upload them to any directory.
-3. Type the following commands into the console:
+3. Set up the 'config.json' file by adding your bot's token.
+4. Type the following commands into the console:
 ```
 cd /directory
 ```
 ```
 node index.js
 ```
-4. The bot should now be running correctly.
+5. The bot should now be running correctly. You just have to add the bot to your Discord server and try 'khelp'. The bot should respond to you with a list of commands.
 
 ## Documentation 📖
 
