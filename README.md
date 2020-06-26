@@ -39,4 +39,4 @@ node index.js
 **kBlowjobs**: With this command you will see images of blowjobs, i love those cum shots. Other valid abbreviations for blowjobs: **kblowjob, kbj**.
 
 ## License 📄
-[Be sure to read and understand the license to use this bot and thus avoid any legal problem.](https://github.com/keiney20/discord/blob/master/LICENSE)
+Be sure to read and understand the [license](https://github.com/keiney20/discord/blob/master/LICENSE) to use this bot and thus avoid any legal problem.
